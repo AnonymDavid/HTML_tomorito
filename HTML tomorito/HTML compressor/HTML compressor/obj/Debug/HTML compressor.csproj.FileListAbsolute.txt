@@ -1,0 +1,40 @@
+D:\STUFF\Programming\C#\HTML compressor\HTML compressor\bin\Debug\HTML compressor.exe.config
+D:\STUFF\Programming\C#\HTML compressor\HTML compressor\bin\Debug\HTML compressor.exe
+D:\STUFF\Programming\C#\HTML compressor\HTML compressor\bin\Debug\HTML compressor.pdb
+D:\STUFF\Programming\C#\HTML compressor\HTML compressor\obj\Debug\HTML compressor.csprojAssemblyReference.cache
+D:\STUFF\Programming\C#\HTML compressor\HTML compressor\obj\Debug\HTML_compressor.Form1.resources
+D:\STUFF\Programming\C#\HTML compressor\HTML compressor\obj\Debug\HTML_compressor.Properties.Resources.resources
+D:\STUFF\Programming\C#\HTML compressor\HTML compressor\obj\Debug\HTML compressor.csproj.GenerateResource.cache
+D:\STUFF\Programming\C#\HTML compressor\HTML compressor\obj\Debug\HTML compressor.csproj.CoreCompileInputs.cache
+D:\STUFF\Programming\C#\HTML compressor\HTML compressor\obj\Debug\HTML compressor.exe
+D:\STUFF\Programming\C#\HTML compressor\HTML compressor\obj\Debug\HTML compressor.pdb
+D:\Dokumentumok\Visual Studio 2017\html_compressor\HTML compressor\HTML compressor\bin\Debug\HTML compressor.exe.config
+D:\Dokumentumok\Visual Studio 2017\html_compressor\HTML compressor\HTML compressor\bin\Debug\HTML compressor.exe
+D:\Dokumentumok\Visual Studio 2017\html_compressor\HTML compressor\HTML compressor\bin\Debug\HTML compressor.pdb
+D:\Dokumentumok\Visual Studio 2017\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML compressor.csprojAssemblyReference.cache
+D:\Dokumentumok\Visual Studio 2017\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML_compressor.Form1.resources
+D:\Dokumentumok\Visual Studio 2017\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML_compressor.Properties.Resources.resources
+D:\Dokumentumok\Visual Studio 2017\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML compressor.csproj.GenerateResource.cache
+D:\Dokumentumok\Visual Studio 2017\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML compressor.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\Visual Studio 2017\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML compressor.exe
+D:\Dokumentumok\Visual Studio 2017\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML compressor.pdb
+D:\Downloads\html_compressor\HTML compressor\HTML compressor\bin\Debug\HTML compressor.exe.config
+D:\Downloads\html_compressor\HTML compressor\HTML compressor\bin\Debug\HTML compressor.exe
+D:\Downloads\html_compressor\HTML compressor\HTML compressor\bin\Debug\HTML compressor.pdb
+D:\Downloads\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML compressor.csprojAssemblyReference.cache
+D:\Downloads\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML_compressor.Form1.resources
+D:\Downloads\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML_compressor.Properties.Resources.resources
+D:\Downloads\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML compressor.csproj.GenerateResource.cache
+D:\Downloads\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML compressor.csproj.CoreCompileInputs.cache
+D:\Downloads\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML compressor.exe
+D:\Downloads\html_compressor\HTML compressor\HTML compressor\obj\Debug\HTML compressor.pdb
+D:\STUFF\Programming\C#\HTML compressor 2\HTML compressor\bin\Debug\HTML compressor.exe.config
+D:\STUFF\Programming\C#\HTML compressor 2\HTML compressor\bin\Debug\HTML compressor.exe
+D:\STUFF\Programming\C#\HTML compressor 2\HTML compressor\bin\Debug\HTML compressor.pdb
+D:\STUFF\Programming\C#\HTML compressor 2\HTML compressor\obj\Debug\HTML compressor.csprojAssemblyReference.cache
+D:\STUFF\Programming\C#\HTML compressor 2\HTML compressor\obj\Debug\HTML_compressor.Form1.resources
+D:\STUFF\Programming\C#\HTML compressor 2\HTML compressor\obj\Debug\HTML_compressor.Properties.Resources.resources
+D:\STUFF\Programming\C#\HTML compressor 2\HTML compressor\obj\Debug\HTML compressor.csproj.GenerateResource.cache
+D:\STUFF\Programming\C#\HTML compressor 2\HTML compressor\obj\Debug\HTML compressor.csproj.CoreCompileInputs.cache
+D:\STUFF\Programming\C#\HTML compressor 2\HTML compressor\obj\Debug\HTML compressor.exe
+D:\STUFF\Programming\C#\HTML compressor 2\HTML compressor\obj\Debug\HTML compressor.pdb
