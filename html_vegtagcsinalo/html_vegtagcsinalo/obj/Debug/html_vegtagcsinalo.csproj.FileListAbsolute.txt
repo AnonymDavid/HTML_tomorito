@@ -1,0 +1,7 @@
+D:\Dokumentumok\Visual Studio 2017\html_vegtagcsinalo\html_vegtagcsinalo\bin\Debug\html_vegtagcsinalo.exe.config
+D:\Dokumentumok\Visual Studio 2017\html_vegtagcsinalo\html_vegtagcsinalo\bin\Debug\html_vegtagcsinalo.exe
+D:\Dokumentumok\Visual Studio 2017\html_vegtagcsinalo\html_vegtagcsinalo\bin\Debug\html_vegtagcsinalo.pdb
+D:\Dokumentumok\Visual Studio 2017\html_vegtagcsinalo\html_vegtagcsinalo\obj\Debug\html_vegtagcsinalo.csprojAssemblyReference.cache
+D:\Dokumentumok\Visual Studio 2017\html_vegtagcsinalo\html_vegtagcsinalo\obj\Debug\html_vegtagcsinalo.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\Visual Studio 2017\html_vegtagcsinalo\html_vegtagcsinalo\obj\Debug\html_vegtagcsinalo.exe
+D:\Dokumentumok\Visual Studio 2017\html_vegtagcsinalo\html_vegtagcsinalo\obj\Debug\html_vegtagcsinalo.pdb
