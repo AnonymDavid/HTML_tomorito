@@ -159,35 +159,52 @@ namespace html_vegtagcsinalo
                         ossz[j + 1] = cs;
                     }
                 }
-            } 
+            }
 
             // lehetõség tömbök feltöltése
-            int[] szamok = new int[100];
-            for (int i = 0; i < 100; i++)
+            seged = 0;
+            char[] speckar = new char[41];
+            for (int i = 33; i < 65; i++)
             {
-                szamok[i] = i + 1;
+                if (i != 34)
+                {
+                    speckar[seged] = (char)i;
+                    seged++;
+                }
             }
-            string[] karakterek = { "\\", "&", "$", "%" };
+            for (int i = 91; i < 97; i++)
+            {
+                speckar[seged] = (char)i;
+                seged++;
+            }
+            for (int i = 123; i < 127; i++)
+            {
+                speckar[seged] = (char)i;
+                seged++;
+            }
 
             // kiírás
             int kseged = n * 2 + m;
-
+            int cseged = 0;
             StreamWriter sw1 = new StreamWriter("mehetaprogiba.txt");
-            for (int i = 0; i < 100; i++)
+            for (int k = 0; k < speckar.Length; k++)
             {
-                sw1.WriteLine(ossz[i] + ", @" + apsz + karakterek[0] + i + apsz + ");");
-            }
-            for (int i = 100; i < 200; i++)
-            {
-                sw1.WriteLine(ossz[i] + ", @" + apsz + karakterek[1] + (i - 100) + apsz + ");");
-            }
-            for (int i = 200; i < 300; i++)
-            {
-                sw1.WriteLine(ossz[i] + ", @" + apsz + karakterek[2] + (i - 200) + apsz + ");");
-            }
-            for (int i = 300; i < kseged; i++)
-            {
-                sw1.WriteLine(ossz[i] + ", @" + apsz + karakterek[3] + (i - 300) + apsz + ");");
+                for (int j = 0; j < speckar.Length; j++)
+                {
+                    if (cseged < kseged)
+                    {
+                        if (k != 0)
+                        {
+                            sw1.WriteLine(ossz[cseged] + ", @" + apsz + "\\" + speckar[k] + speckar[j] + apsz + ");");
+                            cseged++;
+                        }
+                        else
+                        {
+                            sw1.WriteLine(ossz[cseged] + ", @" + apsz + "\\" + speckar[j] + apsz + ");");
+                            cseged++;
+                        }
+                    }
+                }
             }
             sw1.Close();
 
